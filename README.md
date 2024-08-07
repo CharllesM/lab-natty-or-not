@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Impacto da Inteligência Artificial na Saúde: Análise Crítica e Abordagem Estratégica
 
 ## 📒 Descrição
 Este projeto explora a integração da inteligência artificial (IA) na saúde, destacando benefícios e riscos associados. O objetivo é fornecer uma análise detalhada e equilibrada sobre o impacto da IA na medicina moderna, abordando questões de privacidade, viés algorítmico, diagnósticos, tratamentos personalizados e eficiência operacional. Este repositório contém pesquisas, estudos de caso e recomendações práticas para a implementação segura e ética de IA no setor de saúde.
